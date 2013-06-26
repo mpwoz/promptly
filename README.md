@@ -10,6 +10,15 @@ prompt, but don't want to deal with crazy strings of escape
 sequences and cryptic color codes, Promptly is for you. 
 
 
+TL;DR
+-----
+
+Don't know what this means?
+
+    "\[\033[1;34m\][\$(date +%H%M)][\u@\h:\w]$\[\033[0m\] "
+
+Promptly is for you.
+
 
 
 Credits
